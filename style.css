@@ -140,3 +140,24 @@ button.pic {
     width: 8em;
     padding: 0;
 }
+
+.section-2 {
+    background-color:#e5e7eb;
+    padding: 6em 20em;
+    margin: 0;
+ 
+}
+
+.section-2 q {
+    color: #1F2937;
+    font-size: 36px;
+    font-style: italic;
+    font-weight: 100;
+}
+
+.quoter {
+    display: flex;
+    font-weight: bold;
+    justify-content: end;
+}
+

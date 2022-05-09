@@ -131,7 +131,7 @@ button.pic {
     background-color: transparent;
     color: #f9faf8;
     border-color:#3882f6;
-    border-radius: 8px;
+    border-radius: 12px;
     border-style: solid;
     font-size: 18px;
     height: 8em;
@@ -193,6 +193,7 @@ button.sign-2 {
     border-color: #f9faf8;
 }
 
+/* Footer styling */
 .footer {
     display:flex;
     justify-content: center;
